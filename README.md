@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @TimurBas
-- 👀 I’m interested in all aspects of programming
-- 🌱 I’m currently learning GraphQL, Typescript, and React
+# Hi there, I'm Timur Bas 👋
+I'm a Full-Stack Developer who loves crafting elegant solutions to complex problems. 
+My journey in tech has led me to work with a diverse range of technologies across the entire development stack.
 
-<!---
-TimurBas/TimurBas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most loved tech at the moment: C#, TypeScript, React, Next.js, Tailwind CSS, PostgreSQL, Shadcn, Supabase, Vercel, Stripe.
+
+Currently working at Mjølner Informatics as a Software Developer.
+
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timurbas/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/474340215922884620)
