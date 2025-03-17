@@ -4,7 +4,7 @@ My journey in tech has led me to work with a diverse range of technologies acros
 
 Most loved tech at the moment: C#, TypeScript, React, Next.js, Tailwind CSS, PostgreSQL, Shadcn, Supabase, Vercel, Stripe.
 
-Currently working at Mjølner Informatics as a Software Developer.
+Currently working at Clevertrack as a Full-Stack Developer.
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timurbas/)
